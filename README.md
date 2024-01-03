@@ -1,4 +1,4 @@
-# Data Analysis & Data Sceintist
+# Data Analyst & Data Sceintist
 ---
 Data Analysis/ Python/ Kaggle Dataset
 --------
